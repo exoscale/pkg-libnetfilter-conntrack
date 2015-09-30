@@ -1,3 +1,9 @@
+libnetfilter-conntrack (1.0.4-1~precise0+exo1) precise; urgency=medium
+
+  * Backport to Precise. No changes.
+
+ -- Vincent Bernat <bernat@debian.org>  Wed, 30 Sep 2015 11:00:22 +0200
+
 libnetfilter-conntrack (1.0.4-1) unstable; urgency=low
 
   * [2d8ac0b] Imported Upstream version 1.0.4
